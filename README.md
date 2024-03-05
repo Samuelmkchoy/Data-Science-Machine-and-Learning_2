@@ -1,5 +1,3 @@
-I am writing to update you on the progress of my project. Below is a brief overview of the key activities and I have achieved so far:
-
 •	I start this project through extensive research, using our course materials and external web resources. Here is the list of resources for my project:
 
 Bayesian Classifier
